@@ -17,9 +17,8 @@ https://codeincomplete.com/games/snakes/
 
 What the script does:
 
-**
 - **Freeze Snake Size**
-- Optimize (reduce) Snake size
+- **Optimize (reduce) Snake size
 - Optimize and Freeze 1-click
 - Increase the Score per Fruit to 10k instead of 100
 - Automatically center all Fruits
@@ -31,4 +30,4 @@ What the script does:
 - Teleport Mode (Leaves the Fruits where they are, teleports the Snake around)
 - Crack Highscore
 - Instant Win
-**
+
