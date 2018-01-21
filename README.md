@@ -9,7 +9,6 @@ Therefor, this script DOES NOT alter data on anyone's servers. You cannot even s
 
 It's like back in the day, when you entered some secret word in the console and got invincible. 
 
-###################
 
 Where it works:
 
@@ -18,7 +17,7 @@ https://codeincomplete.com/games/snakes/
 
 What the script does:
 
-- Freeze Snake Size
+**- Freeze Snake Size
 - Optimize (reduce) Snake size
 - Optimize and Freeze 1-click
 - Increase the Score per Fruit to 10k instead of 100
