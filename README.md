@@ -28,3 +28,9 @@ https://codeincomplete.com/games/snakes/
 - **Crack Highscore**
 - **Instant Win**
 
+## How to run it ##
+
+There are several possibilities how to run it:
+ - It works in TamperMonkey (Available for all Browsers)
+ - Greasemonkey in Firefox
+ - It even works from Firefoxes Scratchpad if you don't want to install the Plugin.
