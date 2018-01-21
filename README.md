@@ -29,5 +29,5 @@ What the script does:
 - Bot Mode (Moves the Snake for you)
 - Teleport Mode (Leaves the Fruits where they are, teleports the Snake around)
 - Crack Highscore
-- Instant Win
+- Instant Win**
 
