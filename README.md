@@ -18,7 +18,7 @@ https://codeincomplete.com/games/snakes/
 What the script does:
 
 **
-- vFreeze Snake Size**
+- **Freeze Snake Size**
 - Optimize (reduce) Snake size
 - Optimize and Freeze 1-click
 - Increase the Score per Fruit to 10k instead of 100
