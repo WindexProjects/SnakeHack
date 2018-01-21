@@ -34,3 +34,4 @@ There are several possibilities how to run it:
  - It works in TamperMonkey (Available for all Browsers)
  - Greasemonkey in Firefox
  - It even works from Firefoxes Scratchpad if you don't want to install the Plugin.
+   (Settings --> Web Developer --> Scratchpad. Paste there, cluck RUN while on  the Website)
