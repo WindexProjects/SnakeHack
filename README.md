@@ -10,12 +10,12 @@ Therefor, this script DOES NOT alter data on anyone's servers. You cannot even s
 It's like back in the day, when you entered some secret word in the console and got invincible. 
 
 
-Where it works:
+##Where it works:
 
 The Game it's designed for is here:
 https://codeincomplete.com/games/snakes/
 
-What the script does:
+##What the script does:
 
 - **Freeze Snake Size**
 - **Optimize (reduce) Snake size**
