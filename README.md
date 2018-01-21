@@ -1,7 +1,7 @@
 # SnakeHack
 Userscript - God Mode for a Snake Game
 
-## DISSCLAIMER ##
+## DISCLAIMER ##
 
 The Snake Game this cheat is for is an OFFLINE game. Your browser loads it form the site when you open the link, and from that point on it runs LOCALLY.
 
