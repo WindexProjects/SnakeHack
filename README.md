@@ -1,14 +1,11 @@
 # SnakeHack
 Userscript - God Mode for a Snake Game
 
-### DISSCLAIMER ###
+## DISSCLAIMER ##
 
-The Snake Game this cheat is for is an OFFLINE game. Your browser loads it form the site when you open the link, and from that point on it runs locally.
+The Snake Game this cheat is for is an OFFLINE game. Your browser loads it form the site when you open the link, and from that point on it runs LOCALLY.
 
 Therefor, this script DOES NOT alter data on anyone's servers. You cannot even submit a highscore in this game.
-
-It's like back in the day, when you entered some secret word in the console and got invincible. 
-
 
 ## Where it works: ##
 
