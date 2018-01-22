@@ -7,6 +7,8 @@ The Snake Game this cheat is for is an OFFLINE game. Your browser loads it form 
 
 Therefor, this script DOES NOT alter data on anyone's servers. You cannot even submit a highscore in this game.
 
+It all happens LOCALLY in your Browser.
+
 ## Where it works: ##
 
 The Game it's designed for is here:
