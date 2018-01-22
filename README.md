@@ -37,3 +37,5 @@ There are several possibilities how to run it:
  - Greasemonkey in Firefox
  - It even works from Firefoxes Scratchpad if you don't want to install the Plugin.
    (Settings --> Web Developer --> Scratchpad. Paste there, cluck RUN while on  the Website)
+   
+When you installed it and it runs, a Hack Button appears. Click it and enjoy! :)
