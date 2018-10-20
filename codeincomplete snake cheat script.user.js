@@ -1,12 +1,14 @@
 // ==UserScript==
 // @name         codeincomplete snake cheat script
 // @namespace    https://github.com/johnnyawesome
-// @version      0.1
+// @version      1.0
 // @description  Lets you set values for different ingame objects
 // @author       JohnnyAwesome
 // @match        https://codeincomplete.com/games/snakes/*
 // @grant        none
 // @icon         https://cdn0.iconfinder.com/data/icons/pixelo/32/skull.png
+// @updateURL    https://github.com/johnnyawesome/SnakeHack/raw/master/codeincomplete%20snake%20cheat%20script.user.js
+// @downloadURL  https://github.com/johnnyawesome/SnakeHack/raw/master/codeincomplete%20snake%20cheat%20script.user.js
 // ==/UserScript==
 
 (function() {
