@@ -10,6 +10,7 @@
 // @icon64		 https://raw.githubusercontent.com/johnnyawesome/MyLogo/master/MySkull64.ico
 // @updateURL    https://github.com/johnnyawesome/SnakeHack/raw/master/codeincomplete%20snake%20cheat%20script.user.js
 // @downloadURL  https://github.com/johnnyawesome/SnakeHack/raw/master/codeincomplete%20snake%20cheat%20script.user.js
+// @noframes
 // ==/UserScript==
 
 (function() {
