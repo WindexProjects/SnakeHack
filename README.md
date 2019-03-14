@@ -1,11 +1,14 @@
 # SnakeHack
 Userscript - God Mode for a Snake Game
 
-![Possibilities](https://raw.githubusercontent.com/johnnyawesome/SnakeHack/master/SnakeHack.jpg)
 
 ![BotMode](https://github.com/johnnyawesome/SnakeHack/blob/master/SnakeHackBotMode.gif)
 
-![TeleportMode](https://github.com/johnnyawesome/SnakeHack/blob/master/SnakeHackTeleportMode.gif)
+You have several plenty of different cheats:
+
+
+![Possibilities](https://raw.githubusercontent.com/johnnyawesome/SnakeHack/master/SnakeHack.jpg)
+
 
 ## DISCLAIMER ##
 
@@ -33,6 +36,8 @@ https://codeincomplete.com/games/snakes/
 - **Teleport Mode (Leaves the Fruits where they are, teleports the Snake around)**
 - **Crack Highscore**
 - **Instant Win**
+
+![TeleportMode](https://github.com/johnnyawesome/SnakeHack/blob/master/SnakeHackTeleportMode.gif)
 
 ## How to run the script
 
