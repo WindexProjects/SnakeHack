@@ -4,7 +4,7 @@ Userscript - God Mode for a Snake Game
 
 ![BotMode](https://github.com/johnnyawesome/SnakeHack/blob/master/SnakeHackBotMode.gif)
 
-You have several plenty of different cheats:
+You have many different cheats:
 
 
 ![Possibilities](https://raw.githubusercontent.com/johnnyawesome/SnakeHack/master/SnakeHack.jpg)
