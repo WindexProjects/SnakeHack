@@ -1,7 +1,11 @@
 # SnakeHack
 Userscript - God Mode for a Snake Game
 
-![alt text](https://raw.githubusercontent.com/johnnyawesome/SnakeHack/master/SnakeHack.jpg)
+![Possibilities](https://raw.githubusercontent.com/johnnyawesome/SnakeHack/master/SnakeHack.jpg)
+
+![BotMode](https://github.com/johnnyawesome/SnakeHack/blob/master/SnakeHackBotMode.gif)
+
+![TeleportMode](https://github.com/johnnyawesome/SnakeHack/blob/master/SnakeHackTeleportMode.gif)
 
 ## DISCLAIMER ##
 
